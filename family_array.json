@@ -1,5 +1,1 @@
-[{"name":"jon","age":24,"location":"jefferson","appearance":{"eyes":"hazel","hair":"short"}},
-{"name":"mike","age":26,"location":"fanwood","appearance":{"eyes":"brown","hair":"short"}},
-{"name":"jeff","age":20,"location":"fanwood","appearance":{"eyes":"green","hair":"short"}},
-{"name":"susan","age":59,"location":"fanwood","appearance":{"eyes":"green","hair":"long"}}]
-
+[{"name":"jon","age":24,"location":"jefferson","appearance":{"eyes":"hazel","hair":"short"}},{"name":"mike","age":26,"location":"fanwood","appearance":{"eyes":"brown","hair":"short"}},{"name":"jeff","age":20,"location":"fanwood","appearance":{"eyes":"green","hair":"short"}},{"name":"susan","age":59,"location":"fanwood","appearance":{"eyes":"green","hair":"long"}}]
