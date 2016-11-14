@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Serkan",
+		"age": 28,
+		"location": "New York",
+		"appearance": {
+			"eyes": "dark brown",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Cemal",
+		"age": 65,
+		"location": "Istanbul",
+		"appearance": {
+			"eyes": "light brown",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Munevver",
+		"age": 62,
+		"location": "Istanbul",
+		"appearance": {
+			"eyes": "dark brown",
+			"hair": "long"
+		}
+	},
+	{
+		"name": "Arzu",
+		"age": 34,
+		"location": "Istanbul",
+		"appearance": {
+			"eyes": "light brown",
+			"hair": "long"
+		}
+	}
+]
