@@ -1,0 +1,34 @@
+{
+	"jason": {
+		"age": 15,
+		"location": "New Mexico",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "long"
+		}
+	},
+	"jessica": {
+		"age": 25,
+		"location": "California",
+		"appearance": {
+			"eyes": "green",
+			"hair": "long"
+		}
+	},
+	"jennifer": {
+		"age": 55,
+		"location": "New Mexico",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "long"
+		}
+	},
+	"jordan": {
+		"age": 60,
+		"location": "New Mexico",
+		"appearance": {
+			"eyes": "green",
+			"hair": "short"
+		}
+	}
+}
