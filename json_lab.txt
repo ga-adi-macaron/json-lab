@@ -1,0 +1,97 @@
+//as array root
+[
+	{
+		"name": "Justin",
+		"age": 28,
+		"location": "Asbury Park",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Danny",
+		"age": 28,
+		"location": "Asbury Park",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "David",
+		"age": 55,
+		"location": "Ocean Township",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Grace",
+		"age": 16,
+		"location": "Ocean Township",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "long"
+		}
+	},
+	{
+		"name": "Michelle",
+		"age": 50,
+		"location": "Ocean Township",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "long"
+		}
+	}
+]
+
+//as object root
+[
+	{
+		"name": "Justin",
+		"age": 28,
+		"location": "Asbury Park",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Danny",
+		"age": 28,
+		"location": "Asbury Park",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "David",
+		"age": 55,
+		"location": "Ocean Township",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Grace",
+		"age": 16,
+		"location": "Ocean Township",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "long"
+		}
+	},
+	{
+		"name": "Michelle",
+		"age": 50,
+		"location": "Ocean Township",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "long"
+		}
+	}
+]
