@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Derrick",
+		"age": 27,
+		"location": "Manchester, CT",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Jordan",
+		"age": 22,
+		"location": "Boston, MA",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+	},
+	{
+		"name": "Scott",
+		"age": 25,
+		"location": "New York, NY",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Dennis",
+		"age": 57,
+		"location": "Andover, CT",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "short"
+		}
+	},
+	{
+		"name": "Carol",
+		"age": 51,
+		"location": "Andover, CT",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+	}
+]
