@@ -1,0 +1,40 @@
+{
+	"Dorothy": {
+		"age": 64,
+		"quality": "kind",
+		"appearance": {
+			"eyes": "green",
+			"hair": "curly"
+		}
+	},
+
+	"John": {
+		"quality": "friendly",
+		"appearance": {
+			"eyes": "hazel",
+			"hair": "short"
+		}
+	},
+
+
+	"Adam": {
+		"age": 33,
+		"quality": "dramatic",
+		"appearance": {
+			"eyes": "hazel",
+			"hair": "blonde"
+		}
+	},
+
+	"Luz": {
+		"age": 35,
+		"quality": "lively",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+	}
+
+}
+
+

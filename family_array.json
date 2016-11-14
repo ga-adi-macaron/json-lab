@@ -1,0 +1,43 @@
+[
+{
+		"name": "Dorothy",
+		"age": 64,
+		"quality": "kind",
+		"appearance": {
+			"eyes": "green",
+			"hair": "curly"
+		}
+},
+
+{
+		"name": "John",
+		"age": 68,
+		"quality": "friendly",
+		"appearance": {
+			"eyes": "hazel",
+			"hair": "short"
+		}
+},
+
+{
+		"name": "Adam",
+		"age": 33,
+		"quality": "dramatic",
+		"appearance": {
+			"eyes": "hazel",
+			"hair": "blonde"
+		}
+},
+
+{
+		"name": "Luz",
+		"age": 35,
+		"quality": "bubbly",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+}
+]
+
+
