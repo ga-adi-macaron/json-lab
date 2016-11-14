@@ -22,19 +22,19 @@ In this lab, you will be creating JSON files that will provide information about
 
 #### Requirements
 
-- create a file "family_array" that will have an array as a root element:
+- create a file "family_array.json" that will have an **array** as a root element:
 
 	* it should have as many objects as there are members in your family
-	* each member should have four attributes: name, age, quality the member can be best described with and appearance that will be an object itself
-	* appearance should have two attributes: eyes (color) and hair (short/long)
+	* each member should have four attributes: name, age, location and appearance (which will be an object itself)
+		* appearance should have two attributes: eyes (color) and hair (short/long)
 
 
-- create a file "family_nested_objects" that will have an object as a root element:
+- create a file "family_nested_objects.json" that will have an **object** as a root element:
 
 	* it will have as many objects as there are members in your family
 	* each nested object should have a key that will be the person's name
-	* each member should have 3 attributes: age, quality the member can be best described with and appearance that will be an object itself
-	* appearance should have two attributes: eyes (color) and hair (short/long)
+	* each member should have three attributes: age, location and appearance (which will be an object itself)
+		* appearance should have two attributes: eyes (color) and hair (short/long)
 
 **Bonus**:
 
