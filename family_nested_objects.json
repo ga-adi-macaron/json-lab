@@ -1,0 +1,41 @@
+{
+  "lim family":
+  [
+  {
+    "Sebastian":{
+      "age": "26",
+      "appearance": {
+        "eyes": "brown",
+        "hair": "short"
+      }
+    }
+  },
+  {
+    "Bean sprout":{
+      "age": "2",
+      "appearance": {
+        "eyes": "black",
+        "hair": "long"
+      }
+    }
+  },
+  {
+    "Jackie":{
+      "age": "30",
+      "appearance": {
+        "eyes": "brown",
+        "hair": "short"
+      }
+    }
+  },
+  {
+    "Eddie":{
+      "age": "31",
+      "appearance": {
+        "eyes": "grey",
+        "hair": "short"
+      }
+    }
+  }
+]
+}

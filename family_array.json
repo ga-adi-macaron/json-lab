@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sebastian",
+    "age": "26",
+    "appearance": {
+      "eyes": "brown",
+      "hair": "short"
+    }
+  },
+  {
+    "name": "Bean Sprout",
+    "age": "2",
+    "appearance": {
+      "eyes": "black",
+      "hair": "long"
+    }
+  },
+  {
+    "name": "Jackie",
+    "age": "30",
+    "appearance": {
+      "eyes": "brown",
+      "hair": "short"
+    }
+  },
+  {
+    "name": "Eddie",
+    "age": "31",
+    "appearance": {
+      "eyes": "grey",
+      "hair": "short"
+    }
+  }
+]
