@@ -1,0 +1,46 @@
+[
+	{
+		"brother": {
+			"name": "Jason",
+			"age": 15,
+			"location": "New Mexico",
+			"appearance": {
+				"eyes": "blue",
+				"hair": "long"
+			}
+		}
+	},
+	{
+		"sister": {
+			"name": "Jessica",
+			"age": 25,
+			"location": "California",
+			"appearance": {
+				"eyes": "green",
+				"hair": "long"
+			}
+		}
+	},
+	{
+		"mother": {
+			"name": "Jennifer",
+			"age": 55,
+			"location": "New Mexico",
+			"appearance": {
+				"eyes": "blue",
+				"hair": "long"
+			}
+		}
+	},
+	{
+		"father": {
+			"name": "Jordan",
+			"age": 60,
+			"location": "New Mexico",
+			"appearance": {
+				"eyes": "green",
+				"hair": "short"
+			}
+		}
+	}
+]
