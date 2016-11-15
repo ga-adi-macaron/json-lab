@@ -1,0 +1,25 @@
+[
+	{
+		"Dad": "George Hiza",
+		"DAge": 72,
+		"DLocation": "Auburn, NY",
+		"DAppearance": {
+			"DEye Color": "brown",
+			"DHair Length": "short"
+		},
+		"Mom": "Carolyn Hiza",
+		"MAge": 67,
+		"MLocation": "Auburn, NY",
+		"MAppearance": {
+			"MEye Color": "Hazel",
+			"MHair Length": "Medium"
+		},
+		"Sister": "Karen Hiza",
+		"SAge": 32,
+		"SLocation": "Syracuse, NY",
+		"SAppearance": {
+			"SEye Color": "Brown",
+			"SHair Length": "Long"
+		}
+	}
+]

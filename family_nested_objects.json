@@ -1,0 +1,26 @@
+{
+	"George Hiza": {
+		"Age": 72,
+		"Location": "Auburn, NY",
+		"Appearance": {
+			"Eye Color": "brown",
+			"Hair Length": "short"
+		}
+	},
+	"Carolyn Hiza": {
+		"Age": 67,
+		"Location": "Auburn, NY",
+		"Appearance": {
+			"Eye Color": "Hazel",
+			"Hair Length": "Medium"
+		}
+	},
+	"Karen Hiza": {
+		"Age": 32,
+		"Location": "Syracuse, NY",
+		"Appearance": {
+			"Eye Color": "Brown",
+			"Hair Length": "Long"
+		}
+	}
+}
