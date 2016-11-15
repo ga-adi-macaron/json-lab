@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nikita",
+    "age":27,
+    "location":"New York, USA",
+    "appearance": {"hair":"No","eyes":"Brown"}
+    
+  },
+  {
+    "name": "Irina",
+    "age":50,
+    "location":"New York, USA",
+    "appearance": {"hair": "Long", "eyes":"Brown"}
+    
+  },
+  {
+    "name":"Sergey",
+    "age": 58,
+    "location": "New York, USA",
+    "appearance": {"hair": "Short", "eyes": "Blue/Gray"}
+  }
+  ]
